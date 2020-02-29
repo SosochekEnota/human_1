@@ -3,3 +3,7 @@
  jacket (buttons branch)
 +Create release branch with human (master) in boots (boots branch) and hat (hat branch).
 Добавлена ветка buttons 
+
+Коммиты:
+От MobDev-Hobby 6 коммитов: init, heat added, boots, README added, dots, fix readme
+От SosochekEnota 5 коммитов: там какие-то коммиты
